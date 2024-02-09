@@ -1,0 +1,42 @@
+
+img{
+    width:30px;
+}
+.container {
+    background-color:white;
+}
+button{
+    border: none;
+    background-color:black;
+    color: white;
+    border: 10px;
+    padding: 5px 15px;
+    
+}
+  
+}
+}
+.carousel-item{
+    padding:20px 20px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px;
+}
+.card-text{
+    text-align: center;
+}
+.toper{
+    color: orange;
+}
+h3{
+    text-align: center;
+}
+.topi{
+    text-align: center;
+    color: darkorange;
+}
+h5{
+    color: black;
+}
+}
